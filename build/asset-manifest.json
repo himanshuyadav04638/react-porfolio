@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be4c049f.chunk.css",
+    "main.js": "/static/js/main.17e34e9f.chunk.js",
+    "main.js.map": "/static/js/main.17e34e9f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11f320ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11f320ca.js.map",
+    "static/js/2.0a2777bd.chunk.js": "/static/js/2.0a2777bd.chunk.js",
+    "static/js/2.0a2777bd.chunk.js.map": "/static/js/2.0a2777bd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.be4c049f.chunk.css.map": "/static/css/main.be4c049f.chunk.css.map",
+    "static/js/2.0a2777bd.chunk.js.LICENSE.txt": "/static/js/2.0a2777bd.chunk.js.LICENSE.txt",
+    "static/media/him.fb79e87e.jpeg": "/static/media/him.fb79e87e.jpeg",
+    "static/media/himanshu.e0628ba1.jpg": "/static/media/himanshu.e0628ba1.jpg",
+    "static/media/movie.6091e809.png": "/static/media/movie.6091e809.png",
+    "static/media/resort-app.f5823702.png": "/static/media/resort-app.f5823702.png",
+    "static/media/ui1.300f1db7.png": "/static/media/ui1.300f1db7.png",
+    "static/media/ui2.f75e3f4b.png": "/static/media/ui2.f75e3f4b.png",
+    "static/media/ui3.daa4826c.png": "/static/media/ui3.daa4826c.png",
+    "static/media/uiportfolio.b7372739.png": "/static/media/uiportfolio.b7372739.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f320ca.js",
+    "static/js/2.0a2777bd.chunk.js",
+    "static/css/main.be4c049f.chunk.css",
+    "static/js/main.17e34e9f.chunk.js"
+  ]
+}
